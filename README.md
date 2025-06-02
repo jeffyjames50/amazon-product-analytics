@@ -12,6 +12,6 @@ This project analyzes Amazon product sales, reviews, and pricing trends using Po
 ## 🔧 How to Run
 1. Load the dataset into PostgreSQL (`product.sql`)
 2. Run the SQL queries (`analysis_queries.sql`)
-3. View insights in Tableau (`dashboard.twb`)
+
 
 
